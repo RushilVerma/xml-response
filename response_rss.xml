@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <atom:link href="https://www.samsung.com/in/json.feed" rel="self" type="application/rss+xml"/>
+    <title>JSON Feed for Twitter</title>
+    <link>https://www.samsung.com/in/</link>
+    <language>en-us</language>
+    <copyright>© 2022 </copyright>
+    <pubDate>Mon, 14 Mar 2022 17:51:12 GMT</pubDate>
+    <generator>jsonfeed-to-rss 3.0.5 (https://github.com/bcomnes/jsonfeed-to-rss#readme)</generator>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <image>
+      <url>https://images.app.goo.gl/yVYpELGgjcSv4vD76</url>
+      <link>https://www.samsung.com/in/</link>
+      <title>JSON Feed for Twitter</title>
+    </image>
+    <item>
+      <title>RT @mamagnoome: good morning, cutie patooties</title>
+      <link>https://t.co/cReRx0JBpC</link>
+      <description>RT @mamagnoome: good morning, cutie patooties. ☀️💐 https:://t.co/cReRx0JBpC</description>
+      <guid isPermaLink="false">1503428548580814848</guid>
+      <pubDate>Mon, 14 Mar 2022 17:51:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>RT @sockmonkeyhatt: good morning!</title>
+      <link>https://t.co/4B86NoMO5q</link>
+      <description>RT @sockmonkeyhatt: good morning! https://t.co/4B86NoMO5q</description>
+      <guid isPermaLink="false">1503428547766980611</guid>
+      <pubDate>Mon, 14 Mar 2022 17:51:12 GMT</pubDate>
+    </item>
+  </channel>
+</rss>
